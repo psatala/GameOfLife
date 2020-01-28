@@ -3,7 +3,7 @@
 ///                                                                      //
 ///Projekt 3.4                                                           //
 ///Gra w zycie - rozwiniecie                                             //
-///Program realizuje prosty automat komorkowy - symulator zycia "Life"   //                                 //
+///Program realizuje prosty automat komorkowy - symulator zycia "Life"   //
 ///                                                                      //
 ///Przyjete oznaczenia                                                   //
 ///h - wysokosc planszy                                                  //

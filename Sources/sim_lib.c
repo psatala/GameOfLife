@@ -74,7 +74,7 @@ void initAndRead(int *h, int *w, int *n, double *delay, bool *choice, int *tabTy
 	printw("Podaj czas zwloki pomiedzy kolejnymi iteracjami (w sekundach): ");
 	readDoubleProperly(delay, 0, INFINITY, NULL);
 
-	printw("Podaj typ planszy: ");
+	printw("Podaj typ planszy (0 - powierzchnia zamknieta, 1 - torus): ");
 	readIntProperly(tabType, 0, 1, NULL);
 	
 	char *optionsForInput [] = {
